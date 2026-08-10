@@ -1,5 +1,5 @@
 #height-data-analysis
-# Pythonによるデータ集計・可視化のポイントと実践ノウハウ
+# Pythonによるデータ集計・可視化のポイントと注意点まとめ
 
 本プロジェクトの作成過程で得られた、Pandas・Matplotlib・Seabornを用いたデータ分析の実践的な知見と注意点をまとめます。
 ---
